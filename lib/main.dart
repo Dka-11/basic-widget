@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/rendering.dart';
+import 'package:flutter02_widgets/tugas_widgets.dart';
 import 'package:flutter02_widgets/widgets/2.5.1_text_widgets.dart';
 import 'package:flutter02_widgets/widgets/2.5.2_image_widgets.dart';
 import 'package:flutter02_widgets/widgets/2.5.3_ios_cupertino_widgets.dart';
@@ -46,8 +46,5 @@ import 'package:flutter02_widgets/widgets/2.6.4_list_view.dart';
 // void main() => runApp(const StackWidgetSample());
 // void main() => runApp(const ListViewSample());
 
-
-
-
 // == End Praktikum ==
-// void main() => runApp(const MyApp()); //Tugas
+void main() => runApp(const TugasWidgets()); //Tugas
