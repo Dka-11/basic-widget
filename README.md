@@ -1,17 +1,23 @@
-# flutter02_widgets
+# basic_widgets_flutter_app
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a Practice and Assignment Widgets.
 
-A few resources to get you started if this is your first Flutter project:
+By : Adika Ahmad Hanif Nazhir - TI 3B / 2041720171
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Practice Widgets
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# flutter02_widgets
+<img src="./images/screenshots/Widget1.png">
+<img src="./images/screenshots/Widget2.png">
+<img src="./images/screenshots/Widget3.png">
+<img src="./images/screenshots/Widget4.png">
+<img src="./images/screenshots/Widget5.png">
+<img src="./images/screenshots/Widget6.png">
+<img src="./images/screenshots/Widget7.png">
+
+# Assignment Widgets
+
+<img src="./images/screenshots/Widget8 - Tugas.png">
