@@ -20,6 +20,7 @@ import 'package:flutter02_widgets/widgets/2.6.2_column_widgets.dart';
 import 'package:flutter02_widgets/widgets/2.6.2_row_widgets.dart';
 import 'package:flutter02_widgets/widgets/2.6.3_stack.dart';
 import 'package:flutter02_widgets/widgets/2.6.4_list_view.dart';
+import 'package:flutter02_widgets/widgets/2.6.5_grid_view.dart';
 
 // == Start Praktikum ==
 
@@ -45,6 +46,7 @@ import 'package:flutter02_widgets/widgets/2.6.4_list_view.dart';
 // void main() => runApp(const RowWidgetSample());
 // void main() => runApp(const StackWidgetSample());
 // void main() => runApp(const ListViewSample());
+// void main() => runApp(const GridViewSample());
 
 // == End Praktikum ==
 void main() => runApp(const TugasWidgets()); //Tugas
